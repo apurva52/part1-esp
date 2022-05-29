@@ -1,0 +1,28 @@
+.p-card {    background: #ffffff;
+    color: #495057;
+    box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%), 0 1px 3px 0 rgb(0 0 0 / 12%);
+    border-radius: 3px;
+
+    width: 294px;
+    position: absolute;
+    top: 20%;
+    left: 39%;
+    height: 418px;
+
+}
+.beach{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #0F5FE0;
+    width:12px;
+}
+.refuse{
+    color:#7A8594;
+    width:12px;
+    font-weight: bold;
+}
+.modifeid{
+    color:#7A8594;
+    width:12px;
+    
+}
